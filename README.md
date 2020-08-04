@@ -1,8 +1,8 @@
-# peluqueria-manos-de-tijera-backend
-## Servidor para manejar la peluquería "Manos de Tijera". 
+# Backend para peluquería "Manos de Tijera"
+### Servidor para manejar la peluquería "Manos de Tijera". 
 
 
-**Tecnologías utilizadas:
+## Tecnologías utilizadas:
 
 - NodeJS
 - ExpressJS
